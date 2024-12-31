@@ -26,7 +26,11 @@
         }
     ],
     "placementOptions": {
-        "loot": ["structures/village/shepherd"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_shepherd"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

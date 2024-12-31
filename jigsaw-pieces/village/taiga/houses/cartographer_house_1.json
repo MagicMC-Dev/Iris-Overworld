@@ -12,7 +12,11 @@
         "direction": "NORTH_NEGATIVE_Z"
     }],
     "placementOptions": {
-        "loot": ["structures/village/cartographer"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_cartographer"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

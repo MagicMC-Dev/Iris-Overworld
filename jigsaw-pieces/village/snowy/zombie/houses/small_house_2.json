@@ -12,7 +12,11 @@
         "direction": "NORTH_NEGATIVE_Z"
     }],
     "placementOptions": {
-        "loot": ["structures/village/snowy"],
+                "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_snowy_house"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

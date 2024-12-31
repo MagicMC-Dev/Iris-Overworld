@@ -53,7 +53,9 @@
             "innerConnector": true,
             "rotateConnector": false,
             "name": "minecraft:building_entrance",
-            "pools": ["village/plains/zombie/streets"],
+            "pools": [
+                "village/plains/zombie/streets"
+            ],
             "position": {
                 "x": -4,
                 "y": -2,
@@ -63,7 +65,11 @@
         }
     ],
     "placementOptions": {
-        "loot": ["structures/village/plains"],
+        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_plains_house"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

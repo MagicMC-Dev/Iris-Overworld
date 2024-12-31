@@ -12,7 +12,11 @@
         "direction": "EAST_POSITIVE_X"
     }],
     "placementOptions": {
-        "loot": ["structures/village/weaponsmith"],
+                "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_weaponsmith"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

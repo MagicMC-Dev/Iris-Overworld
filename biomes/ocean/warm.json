@@ -173,9 +173,11 @@
                 "structures/oruins2",
                 "structures/oruins3"
             ],
-            "mode": "PAINT",
-            "loot": [{"name": "structures/ocean-ruins"}],
-            "overrideGlobalLoot": true
+            "vanillaLoot": [
+                {
+                    "name": "minecraft:chests/underwater_ruin_small"
+                }
+            ]
         }
     ],
     "decorators": [

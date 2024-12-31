@@ -13,7 +13,11 @@
         "direction": "WEST_NEGATIVE_X"
     }],
     "placementOptions": {
-        "loot": ["structures/village/tannery"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_tannery"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

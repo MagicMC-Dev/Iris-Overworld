@@ -12,7 +12,11 @@
         "direction": "WEST_NEGATIVE_X"
     }],
     "placementOptions": {
-        "loot": ["structures/village/mason"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_mason"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

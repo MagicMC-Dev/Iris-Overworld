@@ -26,7 +26,11 @@
         }
     ],
     "placementOptions": {
-        "loot": ["structures/village/butcher"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_butcher"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

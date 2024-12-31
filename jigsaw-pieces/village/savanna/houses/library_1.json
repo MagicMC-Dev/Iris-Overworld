@@ -12,7 +12,11 @@
         "direction": "NORTH_NEGATIVE_Z"
     }],
     "placementOptions": {
-        "loot": ["structures/village/savanna"],
+                "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_savanna_house"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

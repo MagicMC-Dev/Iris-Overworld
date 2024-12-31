@@ -12,7 +12,11 @@
         "direction": "WEST_NEGATIVE_X"
     }],
     "placementOptions": {
-        "loot": ["structures/village/armorer"],
+                "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_armorer"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

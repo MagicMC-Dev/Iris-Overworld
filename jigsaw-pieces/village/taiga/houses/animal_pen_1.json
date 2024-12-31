@@ -38,7 +38,11 @@
         }
     ],
     "placementOptions": {
-        "loot": ["structures/village/taiga"],
+                "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_taiga_house"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,
