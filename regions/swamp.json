@@ -116,9 +116,5 @@
             {"block": "minecraft:grass"},
             {"block": "minecraft:tall_grass"}
         ]
-    }],
-    "loot": {
-        "mode": "REPLACE",
-        "tables": ["swamp/clutter", "swamp/food"]
-    }
+    }]
 }

@@ -1,5 +1,5 @@
 {
-    "version": 3910,
+    "version": 31000,
     "name": "Overworld",
     "environment": "NORMAL",
     "dimensionAngleDeg": 69,
@@ -57,7 +57,11 @@
             }
         }
     },
+<<<<<<< Updated upstream
     "regionZoom": 8.15,
+=======
+    "regionZoom": 16.15,
+>>>>>>> Stashed changes
     "regions": [
         "frozen",
         "hot",
@@ -584,6 +588,7 @@
     "stronghold": "stronghold",
     "strongholdJumpDistance": 670,
     "maxStrongholds": 27,
+<<<<<<< Updated upstream
     "decorate": true,
     "loot": {
         "mode": "ADD",
@@ -593,4 +598,7 @@
             "global-treasure"
         ]
     }
+=======
+    "decorate": true
+>>>>>>> Stashed changes
 }

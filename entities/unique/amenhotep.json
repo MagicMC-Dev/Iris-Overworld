@@ -11,7 +11,7 @@
         "particleCount": 100
     },
     "attributes": [{
-        "attribute": "GENERIC_ARMOR",
+        "attribute": "ARMOR",
         "maxAmount": 100,
         "minAmount": 100,
         "operation": "ADD_NUMBER"
@@ -79,7 +79,7 @@
             }
         ],
         "attributes": [{
-            "attribute": "GENERIC_LUCK",
+            "attribute": "LUCK",
             "maxAmount": 5,
             "minAmount": 3,
             "chance": 1,
@@ -111,7 +111,7 @@
             }
         ],
         "attributes": [{
-            "attribute": "GENERIC_MAX_HEALTH",
+            "attribute": "MAX_HEALTH",
             "maxAmount": 5,
             "minAmount": 3,
             "chance": 1,
@@ -143,7 +143,7 @@
             }
         ],
         "attributes": [{
-            "attribute": "GENERIC_KNOCKBACK_RESISTANCE",
+            "attribute": "KNOCKBACK_RESISTANCE",
             "maxAmount": 5,
             "minAmount": 3,
             "chance": 1,
