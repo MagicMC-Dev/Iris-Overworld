@@ -121,7 +121,7 @@
             "variance": {"style": "STATIC"},
             "zoom": 0.3,
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:fern"}
             ],
             "style": {"style": "STATIC"}

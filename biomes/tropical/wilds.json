@@ -255,7 +255,7 @@
         {
             "chance": 0.42,
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:fern"}
             ]
         },

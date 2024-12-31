@@ -246,13 +246,13 @@
             "palette": [
                 {
                     "weight": 1,
-                    "block": "minecraft:grass"
+                    "block": "minecraft:short_grass"
                 },
-                {"block": "minecraft:grass"},
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
+                {"block": "minecraft:short_grass"},
                 {
                     "chance": 7,
-                    "block": "minecraft:grass"
+                    "block": "minecraft:short_grass"
                 }
             ]
         },

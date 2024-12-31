@@ -147,7 +147,7 @@
                             "block": "minecraft:tall_grass"
                         },
                         {
-                            "block": "minecraft:grass"
+                            "block": "minecraft:short_grass"
                         }
                     ],
                     "replace": {

@@ -215,7 +215,7 @@
             "chance": 0.2,
             "variance": {"style": "STATIC"},
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:fern"}
             ],
             "style": {"style": "IRIS_DOUBLE"}
@@ -224,7 +224,7 @@
             "chance": 0.1,
             "variance": {"style": "STATIC"},
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:fern"}
             ],
             "style": {"style": "STATIC"}

@@ -113,7 +113,7 @@
         "blocks": [
             {"block": "minecraft:grass_block"},
             {"block": "minecraft:dark_oak_leaves"},
-            {"block": "minecraft:grass"},
+            {"block": "minecraft:short_grass"},
             {"block": "minecraft:tall_grass"}
         ]
     }]

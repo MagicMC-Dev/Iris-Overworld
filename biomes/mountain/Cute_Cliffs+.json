@@ -109,7 +109,7 @@
         },
         {
             "chance": 0.5,
-            "palette": [{"block": "minecraft:grass"}]
+            "palette": [{"block": "minecraft:short_grass"}]
         }
     ],
     "childStyle": {

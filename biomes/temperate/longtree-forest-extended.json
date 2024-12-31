@@ -338,7 +338,7 @@
             "zoom": 0.2,
             "palette": [{
                 "weight": 1,
-                "block": "minecraft:grass"
+                "block": "minecraft:short_grass"
             }]
         },
         {

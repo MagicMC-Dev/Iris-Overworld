@@ -185,7 +185,7 @@
                     "weight": 45
                 },
                 {
-                    "block": "minecraft:grass",
+                    "block": "minecraft:short_grass",
                     "weight": 4
                 },
                 {
@@ -203,7 +203,7 @@
             },
             "palette": [
                 {
-                    "block": "minecraft:grass",
+                    "block": "minecraft:short_grass",
                     "weight": 4
                 },
                 {

@@ -52,7 +52,7 @@
             "style": {"style": "STATIC"},
             "absoluteMaxStack": 1,
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:azalea_leaves"},
                 {"block": "minecraft:azalea"},
                 {"block": "minecraft:flowering_azalea"},

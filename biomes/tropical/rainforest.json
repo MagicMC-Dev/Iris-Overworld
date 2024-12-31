@@ -232,9 +232,9 @@
             "palette": [
                 {"block": "minecraft:jungle_leaves"},
                 {"block": "minecraft:tall_grass"},
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:jungle_leaves"},
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:jungle_leaves"}
             ],
             "style": {
@@ -272,7 +272,7 @@
             "variance": {"style": "STATIC"},
             "zoom": 10,
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:tall_grass"}
             ],
             "style": {"style": "STATIC"},

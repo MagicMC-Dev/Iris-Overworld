@@ -300,7 +300,7 @@
                     "weight": 5
                 },
                 {
-                    "block": "minecraft:grass",
+                    "block": "minecraft:short_grass",
                     "weight": 3
                 },
                 {"block": "minecraft:fern"},

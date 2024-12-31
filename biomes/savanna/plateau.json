@@ -221,7 +221,7 @@
             "chance": 0.3,
             "variance": {"style": "STATIC"},
             "zoom": 0.3,
-            "palette": [{"block": "minecraft:grass"}],
+            "palette": [{"block": "minecraft:short_grass"}],
             "style": {"style": "STATIC"}
         },
         {
