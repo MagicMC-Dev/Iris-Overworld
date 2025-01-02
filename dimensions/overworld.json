@@ -585,5 +585,13 @@
     "stronghold": "stronghold",
     "strongholdJumpDistance": 670,
     "maxStrongholds": 27,
-    "decorate": true
+    "decorate": true,
+    "loot": {
+        "mode": "FALLBACK",
+        "tables": [
+            "global-clutter",
+            "global-tools",
+            "global-treasure"
+        ]
+    }
 }
