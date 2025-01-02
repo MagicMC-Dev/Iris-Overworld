@@ -1,6 +1,10 @@
 {
     "placementOptions": {
-        "loot": ["structures/ruined-portal"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/ruined_portal"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

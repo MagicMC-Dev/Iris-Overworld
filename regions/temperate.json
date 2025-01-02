@@ -182,7 +182,7 @@
     "shoreHeightZoom": 1.14,
     "riverThickness": 0.025,
     "loot": {
-        "mode": "REPLACE",
+        "mode": "FALLBACK",
         "tables": [
             "temperate/clutter",
             "temperate/food"

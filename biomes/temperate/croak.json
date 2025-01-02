@@ -140,7 +140,7 @@
         },
         {
             "palette": [
-                {"block": "minecraft:grass", "weight": 2},
+                {"block": "minecraft:short_grass", "weight": 2},
                 {"block": "minecraft:tall_grass", "weight": 1}
 
                 ],

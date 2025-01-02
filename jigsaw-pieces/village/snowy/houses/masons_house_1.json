@@ -12,7 +12,11 @@
         "direction": "SOUTH_POSITIVE_Z"
     }],
     "placementOptions": {
-        "loot": ["structures/village/mason"],
+                "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_mason"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

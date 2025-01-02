@@ -168,7 +168,7 @@
             "variance": {"style": "STATIC"},
             "zoom": 0.1,
             "palette": [
-                {"block": "minecraft:grass"},
+                {"block": "minecraft:short_grass"},
                 {"block": "minecraft:allium"},
                 {"block": "minecraft:poppy"},
                 {"block": "minecraft:dandelion"},
@@ -184,7 +184,7 @@
             "zoom": 0.3,
             "palette": [
                 {
-                    "block": "minecraft:grass",
+                    "block": "minecraft:short_grass",
                     "weight": 10
                 },
                 {"block": "minecraft:fern"}

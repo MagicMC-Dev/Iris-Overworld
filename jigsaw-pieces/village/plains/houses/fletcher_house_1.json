@@ -12,7 +12,11 @@
         "direction": "WEST_NEGATIVE_X"
     }],
     "placementOptions": {
-        "loot": ["structures/village/fletcher"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_fletcher"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

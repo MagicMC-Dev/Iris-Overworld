@@ -26,7 +26,11 @@
         }
     ],
     "placementOptions": {
-        "loot": ["structures/village/toolsmith"],
+               "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_toolsmith"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "maximumMarkers": 1,

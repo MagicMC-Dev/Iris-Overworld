@@ -1,6 +1,10 @@
 {
     "placementOptions": {
-        "loot": ["structures/pyramid-jungle"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/jungle_temple"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "mark": [

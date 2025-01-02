@@ -1,18 +1,24 @@
 {
-    "connectors": [{
-        "targetName": "minecraft:building_entrance",
-        "innerConnector": true,
-        "rotateConnector": false,
-        "name": "minecraft:building_entrance",
-        "position": {
-            "x": -3,
-            "y": -2,
-            "z": -1
-        },
-        "direction": "WEST_NEGATIVE_X"
-    }],
+    "connectors": [
+        {
+            "targetName": "minecraft:building_entrance",
+            "innerConnector": true,
+            "rotateConnector": false,
+            "name": "minecraft:building_entrance",
+            "position": {
+                "x": -3,
+                "y": -2,
+                "z": -1
+            },
+            "direction": "WEST_NEGATIVE_X"
+        }
+    ],
     "placementOptions": {
-        "loot": ["structures/village/snowy"],
+        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_snowy_house"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

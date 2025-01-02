@@ -1,8 +1,10 @@
 {
     "object": "jigsaw/dungeon/zombie",
     "placementOptions": {
-        "loot": [
-            "structures/dungeon"
+        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/simple_dungeon"
+            }
         ],
         "edit": [
             {

@@ -53,21 +53,21 @@
             ],
             "attributes": [
                 {
-                    "attribute": "GENERIC_MOVEMENT_SPEED",
+                    "attribute": "MOVEMENT_SPEED",
                     "operation": "MULTIPLY_SCALAR_1",
                     "maxAmount": -0.15,
                     "minAmount": -0.25,
                     "name": "SLOW"
                 },
                 {
-                    "attribute": "GENERIC_KNOCKBACK_RESISTANCE",
+                    "attribute": "KNOCKBACK_RESISTANCE",
                     "maxAmount": 3.25,
                     "minAmount": 0.85,
                     "name": "THICC",
                     "operation": "MULTIPLY_SCALAR_1"
                 },
                 {
-                    "attribute": "GENERIC_MAX_HEALTH",
+                    "attribute": "MAX_HEALTH",
                     "operation": "ADD_NUMBER",
                     "maxAmount": 7,
                     "name": "HP",
@@ -126,11 +126,11 @@
                 "HIDE_UNBREAKABLE",
                 "HIDE_DESTROYS",
                 "HIDE_ENCHANTS",
-                "HIDE_POTION_EFFECTS",
+                "HIDE_ATTRIBUTES",
                 "HIDE_ATTRIBUTES"
             ],
             "attributes": [{
-                "attribute": "GENERIC_ATTACK_DAMAGE",
+                "attribute": "ATTACK_DAMAGE",
                 "operation": "ADD_NUMBER",
                 "maxAmount": 5,
                 "minAmount": 3,

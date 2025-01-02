@@ -1,6 +1,10 @@
 {
     "placementOptions": {
-        "loot": ["structures/pyramid-desert"],
+                        "vanillaLoot": [
+            {
+                "name": "minecraft:chests/desert_pyramid"
+            }
+        ],
         "markers": [{
             "emptyAbove": true,
             "mark": [

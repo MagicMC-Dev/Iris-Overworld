@@ -26,7 +26,11 @@
         }
     ],
     "placementOptions": {
-        "loot": ["structures/village/cartographer"],
+                       "vanillaLoot": [
+            {
+                "name": "minecraft:chests/village/village_cartographer"
+            }
+        ],
         "overStilt": 0,
         "chance": 1,
         "meld": false,

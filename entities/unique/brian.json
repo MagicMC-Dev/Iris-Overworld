@@ -10,14 +10,14 @@
     },
     "attributes": [
         {
-            "attribute": "GENERIC_ARMOR",
+            "attribute": "ARMOR",
             "maxAmount": 5,
             "minAmount": 3,
             "operation": "ADD_NUMBER",
             "name": "5head"
         },
         {
-            "attribute": "GENERIC_MAX_HEALTH",
+            "attribute": "MAX_HEALTH",
             "maxAmount": 21,
             "minAmount": 19,
             "operation": "ADD_NUMBER",
