@@ -1,5 +1,6 @@
 {
     "maxDepth": 10,
+    "structureKey": "#minecraft:mineshaft",
     "pieces": ["mineshaft/intersection"],
         "overrideYRange" :{
         "max": 45,
