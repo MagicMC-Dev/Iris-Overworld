@@ -115,7 +115,7 @@
                 "cave": "volcanic/main",
                 "rarity": 75,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -127,7 +127,7 @@
                 "cave": "drip/main",
                 "rarity": 45,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -139,7 +139,7 @@
                 "cave": "rocky/main",
                 "rarity": 50,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -151,7 +151,7 @@
                 "cave": "jungle/main",
                 "rarity": 25,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"

@@ -1,7 +1,6 @@
 {
     "version": 31010,
     "name": "Overworld",
-    "doCaves": true,
     "environment": "NORMAL",
     "dimensionAngleDeg": 69,
     "fluidHeight": 75,
@@ -28,19 +27,19 @@
             "rarity": 1600
         }
     ],
-    "logicalHeight": 320,
+    "logicalHeight": 1024,
     "dimensionHeight": {
-        "max": 320,
+        "max": 1024,
         "min": -64
     },
-    "logicalHeightEnd": 320,
+    "logicalHeightEnd": 448,
     "dimensionHeightEnd": {
-        "max": 320,
+        "max": 448,
         "min": -64
     },
-    "logicalHeightNether": 320,
+    "logicalHeightNether": 448,
     "dimensionHeightNether": {
-        "max": 320,
+        "max": 448,
         "min": -64
     },
     "landChance": 0.69,

@@ -7,7 +7,7 @@
     "generators": [
          {
         "min": 23,
-        "max": 310,
+        "max": 395,
         "generator": "spikes"
     }],
     "wall":{

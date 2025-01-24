@@ -154,7 +154,7 @@
                 "cave": "drip/main",
                 "rarity": 30,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -166,7 +166,7 @@
                 "cave": "rocky/main",
                 "rarity": 15,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"

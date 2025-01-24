@@ -36,7 +36,7 @@
                 "cave": "rocky/main",
                 "rarity": 50,
                 "caveStartHeight": {
-                    "max": 250,
+                    "max": 400,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
