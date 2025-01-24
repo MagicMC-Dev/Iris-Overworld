@@ -182,7 +182,7 @@
                 "cave": "sandstone/main",
                 "rarity": 20,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -194,7 +194,7 @@
                 "cave": "red-sandstone/main",
                 "rarity": 20,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -206,7 +206,7 @@
                 "cave": "mixed-sandstone/main",
                 "rarity": 15,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -218,7 +218,7 @@
                 "cave": "drip/main",
                 "rarity": 46,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -230,7 +230,7 @@
                 "cave": "rocky/main",
                 "rarity": 50,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"

@@ -10,7 +10,8 @@
         "swamp/handy-willow-forest",
         "swamp/cambian-drift",
         "swamp/swamp-forest",
-        "swamp/willow-forest"
+        "swamp/willow-forest",
+        "swamp/creaks"
     ],
     "objects": [
         {
@@ -123,7 +124,7 @@
                 "cave": "swamp/main",
                 "rarity": 10,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"

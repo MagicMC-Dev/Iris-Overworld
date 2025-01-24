@@ -1,6 +1,7 @@
 {
-    "version": 31000,
+    "version": 31010,
     "name": "Overworld",
+    "doCaves": true,
     "environment": "NORMAL",
     "dimensionAngleDeg": 69,
     "fluidHeight": 75,
@@ -27,19 +28,19 @@
             "rarity": 1600
         }
     ],
-    "logicalHeight": 1024,
+    "logicalHeight": 320,
     "dimensionHeight": {
-        "max": 1024,
+        "max": 320,
         "min": -64
     },
-    "logicalHeightEnd": 448,
+    "logicalHeightEnd": 320,
     "dimensionHeightEnd": {
-        "max": 448,
+        "max": 320,
         "min": -64
     },
-    "logicalHeightNether": 448,
+    "logicalHeightNether": 320,
     "dimensionHeightNether": {
-        "max": 448,
+        "max": 320,
         "min": -64
     },
     "landChance": 0.69,
@@ -156,7 +157,7 @@
                 "cave": "cavesv4/spider-infestation/main",
                 "rarity": 170,
                 "caveStartHeight": {
-                    "max": 360,
+                    "max": 250,
                     "min": 64,
                     "style": {
                         "style": "STATIC"

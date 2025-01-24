@@ -146,7 +146,7 @@
                 "cave": "calcite/main",
                 "rarity": 20,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
@@ -158,7 +158,7 @@
                 "cave": "rocky/main",
                 "rarity": 10,
                 "caveStartHeight": {
-                    "max": 400,
+                    "max": 250,
                     "min": 15,
                     "style": {
                         "style": "STATIC"
